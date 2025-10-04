@@ -1,4 +1,5 @@
 // closure used to create Unique tickets
+
 function ticketId() {
   let id = 1;
   return function () {
